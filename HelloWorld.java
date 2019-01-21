@@ -1,4 +1,4 @@
-package com.song.test;
+package com.foo.test;
 
 public class HelloWorld {
 
