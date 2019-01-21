@@ -1,4 +1,4 @@
-package com.foo.test;
+package com.boyd.test;
 
 public class HelloWorld {
 
