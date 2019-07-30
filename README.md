@@ -4,3 +4,5 @@ using the Ethereum Virtual Machine (EVM), aiming to make life as a developer eas
 1. The web3.js library is a collection of modules which contain specific functionality for the ethereum ecosystem.
 
 2. Solidity was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
+
+3. With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions, and multi-signature wallets.
