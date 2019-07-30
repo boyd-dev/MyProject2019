@@ -4,3 +4,4 @@ using the Ethereum Virtual Machine (EVM), aiming to make life as a developer eas
 1. Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
 
 
+2. Solidity was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
