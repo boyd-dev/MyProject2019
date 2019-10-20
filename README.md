@@ -8,16 +8,3 @@ ethereum node, using a HTTP or IPC connection.
 
 PromiEvents work like a normal promises with added on, once and off functions.
 This way developers can watch for additional events like on “receipt” or “transactionHash”.
-
-The web3.eth.subscribe function lets you subscribe to specific events in the blockchain.
-
-subscribe(“logs”)
-Subscribes to incoming logs, filtered by the given options.
-
-EventEmitter: An subscription instance as an event emitter with the following events:
-
-The web3.eth.Contract object makes it easy to interact with smart contracts on the ethereum blockchain.
-When you create a new contract object you give it the json interface of the respective smart contract
-and web3 will auto convert all calls into low level ABI calls over RPC for you.
-
-Creates a new contract instance with all its methods and events defined in its json interface object.
