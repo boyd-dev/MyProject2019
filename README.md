@@ -13,3 +13,5 @@ The web3.eth.subscribe function lets you subscribe to specific events in the blo
 
 subscribe(“logs”)
 Subscribes to incoming logs, filtered by the given options.
+
+EventEmitter: An subscription instance as an event emitter with the following events:
