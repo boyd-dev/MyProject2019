@@ -13,3 +13,7 @@ The web3.eth.subscribe function lets you subscribe to specific events in the blo
 
 subscribe(“logs”)
 Subscribes to incoming logs, filtered by the given options.
+
+The web3.eth.Contract object makes it easy to interact with smart contracts on the ethereum blockchain.
+When you create a new contract object you give it the json interface of the respective smart contract
+and web3 will auto convert all calls into low level ABI calls over RPC for you.
