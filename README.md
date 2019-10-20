@@ -8,3 +8,5 @@ ethereum node, using a HTTP or IPC connection.
 
 PromiEvents work like a normal promises with added on, once and off functions.
 This way developers can watch for additional events like on “receipt” or “transactionHash”.
+
+The web3.eth.subscribe function lets you subscribe to specific events in the blockchain.
