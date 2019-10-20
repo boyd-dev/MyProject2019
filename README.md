@@ -20,4 +20,4 @@ The web3.eth.Contract object makes it easy to interact with smart contracts on t
 When you create a new contract object you give it the json interface of the respective smart contract
 and web3 will auto convert all calls into low level ABI calls over RPC for you.
 
-`new web3.eth.Contract(jsonInterface[, address][, options])`
+Creates a new contract instance with all its methods and events defined in its json interface object.
