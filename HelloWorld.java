@@ -8,6 +8,7 @@ public class HelloWorld {
 			System.out.println("Hello GitHub!!!");
 			System.out.println("Hello World!");
 			System.out.println("Hello MyProject2020");
+			System.out.println("I am Kate!");
 
 	}
 
