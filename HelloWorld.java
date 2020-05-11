@@ -9,7 +9,7 @@ public class HelloWorld {
 			System.out.println("Hello World!");
 			System.out.println("Hello MyProject2020");
 			System.out.println("Hello I am Boyd!");
-
+			System.out.println("I am Kate Miller!");
 	}
 
 }
